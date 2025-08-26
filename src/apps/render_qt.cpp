@@ -1,4 +1,3 @@
-// src/apps/render_qt.cpp
 #include <QApplication>
 #include <QWidget>
 #include <QPainter>
