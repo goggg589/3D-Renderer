@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore.a CMakeFiles/core.dir/src/core/ObjLoader.cpp.o CMakeFiles/core.dir/src/core/Renderer.cpp.o
+/usr/bin/ranlib libcore.a

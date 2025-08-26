@@ -3,6 +3,7 @@
 #include "core/ObjLoader.h"
 #include "core/Renderer.h"
 #include <SFML/Graphics.hpp>
+#include <SFML/Config.hpp>
 #include <iostream>
 #include <sstream>
 #include <string>

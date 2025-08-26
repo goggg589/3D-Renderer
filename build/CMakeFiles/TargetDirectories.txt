@@ -1,0 +1,5 @@
+/mnt/c/Users/ariha/CLionProjects/3D-Renderer/build/CMakeFiles/core.dir
+/mnt/c/Users/ariha/CLionProjects/3D-Renderer/build/CMakeFiles/render-cli.dir
+/mnt/c/Users/ariha/CLionProjects/3D-Renderer/build/CMakeFiles/render-qt.dir
+/mnt/c/Users/ariha/CLionProjects/3D-Renderer/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ariha/CLionProjects/3D-Renderer/build/CMakeFiles/rebuild_cache.dir
