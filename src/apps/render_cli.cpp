@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
   auto lines = renderer.buildProjectedLines(view, proj, mesh, cam.znear);
 
   // draw
-  Image img(W, H, /bg/18, 18, 20);
+  Image img(W, H, 18, 18, 20);
   const uint8_t R = 230, G = 230, B = 240;
   for (const auto& ln : lines) {
     int x0 = static_cast<int>(std::lround(ln.a.x));
