@@ -97,7 +97,8 @@ public:
         setMouseTracking(true);
 
         timer = new QTimer(this);
-        connect(timer, &QTimer::timeout, this, &Viewer::update);
+        // connect(timer, &QTimer::timeout, this, &Viewer::update);
+        connect(timer, &QTimer::timeout, this, [this]{ this->update(); });
         timer->start(0); // ASAP; we adapt to target fps in paintEvent()
     }
 
